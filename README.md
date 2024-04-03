@@ -1,4 +1,4 @@
-# explorer-testing
+# TestingScool, testat în România
 
 
 # Testing scenarios
